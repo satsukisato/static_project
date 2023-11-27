@@ -6,6 +6,7 @@ public class PracticeSwitch {
 
 		for (int num : numbers) {
 			String job = "";
+			
 			switch (num) {
 			case 1:
 				job = "勇者";
